@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Baymax005
 - I am blockchain developer + information security expert
-  skills: 
+- skills are: 
 - fullstack dev
 - solidity
 - c++
